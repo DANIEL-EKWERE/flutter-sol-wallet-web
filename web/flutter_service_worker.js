@@ -51,11 +51,11 @@ const RESOURCES = {"version.json": "a689944169ddf88863abee9175a80752",
 "assets/assets/images/nft-removebg-preview.png": "3487ac4febb97b9cb838a15b0af9df5e",
 "assets/AssetManifest.json": "b99a0b7da4f8a4939762873edb5b78da",
 "favicon.png": "aabd595054c1dcb8099737a9afeabc25",
-"flutter_bootstrap.js": "bedc3b70c63de094e20dd4e932aa6b00",
+"flutter_bootstrap.js": "f4ef91f4e1bac7ee06bf4a705efc83f3",
 "index.html": "932e4947bd6ae14ce55d71466d2dc22c",
 "/": "932e4947bd6ae14ce55d71466d2dc22c",
 "manifest.json": "92f0f984527328e9705c16cfb3bb4069",
-"main.dart.js": "41f76f91e080b23d69bea245d7c67ac0"};
+"main.dart.js": "251215a12d3b8b86030cb9940abfeaa8"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
